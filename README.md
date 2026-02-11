@@ -71,6 +71,11 @@ Security & Design Principles
 
 ---
 
+
+License
+MIT License
+
+ 
  Development & Testing
 
 ```bash
@@ -79,5 +84,4 @@ clarinet test
 
 
 
-License
-MIT License
+
